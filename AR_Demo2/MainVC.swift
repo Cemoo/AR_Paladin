@@ -131,11 +131,7 @@ class MainVC: UIViewController, ARSCNViewDelegate,ARSessionDelegate {
             else {
                 playAnimation(key: "sword")
             }
-            
-            
         }
-        
-        
     }
     
     func playAnimation(key: String) {
